@@ -3,3 +3,8 @@ function Home() {
 }
 
 export default Home
+// git status
+// git add -A
+//git commit -m "nova pagina"
+//git push origin main
+//npm run dev
