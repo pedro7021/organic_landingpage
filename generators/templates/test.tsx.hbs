@@ -1,0 +1,14 @@
+import { screen } from '@testing-library/react';
+import { renderTheme } from '../../styles/render-theme';
+import { {{pascalCase name}}, {{pascalCase name}}Props } from '.';
+
+import mock from './mock';
+
+const props: {{pascalCase name}}Props = mock;
+
+describe('<{{pascalCase name}} />', () => {
+  it('should render {{pascalCase name}}', () => {
+    renderTheme(<{{pascalCase name}} />);
+    expect(screen.getByText('teste')).toBeInTheDocument();
+  });
+});
