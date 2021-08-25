@@ -1,10 +1,6 @@
 import Link from 'next/link';
 import * as S from './styles';
 
-export type DocumentsLinksProps = {
-  title?: string;
-};
-
 export function DocumentsLinks() {
   return (
     <S.Wrapper>
