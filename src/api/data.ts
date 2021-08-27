@@ -1,7 +1,7 @@
 export default {
   settings: {
     title: 'Organic App',
-    description: 'descrição',
+    description: 'Organic é o app para quem quer comprar ou vender produtos de origem organica ou natural.',
   },
   header: {
     heading: 'Organic',
