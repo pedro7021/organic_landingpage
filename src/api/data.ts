@@ -5,7 +5,7 @@ export default {
   },
   header: {
     heading: 'Organic',
-    isAppAvailable: {},
+    isAppAvailable: {androidUrl:'https://play.google.com/store/apps/details?id=com.decarli.organic'},
   },
   legal: {
     'privacy-policy': {
